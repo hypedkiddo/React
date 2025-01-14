@@ -9,7 +9,7 @@ This repository documents my journey of learning React by building various proje
 ### 1. Counter Project
 This is a simple project where we can update the state of counter variables using buttons.
 
-![Counter Project](assets/counter-project.png)
+![Counter Project](assests/counter-project.png)
 
 #### **What I Learned**
 - How to use the `useState` hook.
