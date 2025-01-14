@@ -39,4 +39,4 @@ This is a simple project where we can Change the Bg color of the screen.
 
 Stay tuned for more projects as I continue my learning journey!
 
-How i can add image of Project here
+
