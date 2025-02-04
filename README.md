@@ -15,11 +15,6 @@ This is a simple project where we can update the state of counter variables usin
 - How to use the `useState` hook.
 - Managing state variables effectively across a React application.
 
-
-#### **What I Learned**
-- How to use the useState hook.
-- Managing state variables effectively across a React application.
-
 ---
 ### 2. BgChanger Project
 This is a simple project where we can Change the Bg color of the screen.
@@ -31,9 +26,25 @@ This is a simple project where we can Change the Bg color of the screen.
 - Managing state variables effectively across a React application.
 
 
+---
+### 3. Tic-tac-toe Project
+Making of Tic tac toe game using React
+
+![BgChanger Project](assests/Tic.jpg)
+
 #### **What I Learned**
-- How to use the useState hook.
-- Managing state variables effectively across a React application.
+- Got Familar with the React Syntax.
+
+---
+
+### 4. Landing page 
+Making of a simple landing page and handling routing with React Router
+
+![BgChanger Project](assests/Tic.jpg)
+
+#### **What I Learned**
+- Learned how to create a Layout.jsx template.
+- Learned how routing takes the user from one page to another.
 
 ---
 
