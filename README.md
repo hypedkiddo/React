@@ -40,7 +40,7 @@ Making of Tic tac toe game using React
 ### 4. Landing page 
 Making of a simple landing page and handling routing with React Router
 
-![BgChanger Project](assests/Tic.jpg)
+![BgChanger Project](assests/home.jpg)
 
 #### **What I Learned**
 - Learned how to create a Layout.jsx template.
