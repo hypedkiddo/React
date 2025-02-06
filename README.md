@@ -47,6 +47,21 @@ Making of a simple landing page and handling routing with React Router
 - Learned how routing takes the user from one page to another.
 
 ---
+---
+
+### 5. Ev-Website
+Made a Simple Ev-Website Displaying the models of a Ev-car Brand
+
+## Project Demo 🎬
+[View Video](https://raw.githubusercontent.com/hypedkiddo/React/main/assests/video.mp4)
+
+
+
+#### **What I Learned**
+- Used loops to show Media according to the buttons clicked by the user.
+- Learned how to manage and integrate react components.
+
+---
 
 Stay tuned for more projects as I continue my learning journey!
 
